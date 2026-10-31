@@ -1,0 +1,13 @@
+{
+  "name": "gazette-de-valombre",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Journal fictif de Valombre et de ses environs",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs"
+  }
+}
