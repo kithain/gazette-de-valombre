@@ -1,8 +1,8 @@
 ---
-title: "Affaire Ulfric : une déposition contestée avant le procès"
+title: "Procès d’Ulfric : un seul homme pour toute l’affaire ?"
 slug: "academie-ulfric-syndicat"
 category: "enquetes"
-label: "Enquête locale"
+label: "Justice · Le procès à venir"
 image: "academie.webp"
 alt: "Les tours et les bâtiments de l’Université Arcanique de Valombre"
 location: "Quartier du Savoir"
