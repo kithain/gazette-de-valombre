@@ -1,5 +1,5 @@
 ---
-title: "Procès d’Ulfric : un seul homme pour toute l’affaire ?"
+title: "Ulfric sera jugé. Et l’Académie ?"
 slug: "academie-ulfric-syndicat"
 category: "enquetes"
 label: "Justice · Le procès à venir"
@@ -7,25 +7,25 @@ image: "academie.webp"
 alt: "Les tours et les bâtiments de l’Université Arcanique de Valombre"
 location: "Quartier du Savoir"
 order: 95
-excerpt: "Les enquêteurs mandatés par l’Académie dénoncent un texte qui attribuait toute l’affaire à Ulfric sans mentionner le Syndicat des Brumes. Leurs réserves ont finalement été consignées. Le procès doit encore établir les responsabilités."
+excerpt: "Un procès se prépare à Valombre après l’arrestation d’Ulfric. L’affaire embarrasse l’Académie. Mais que sait-on, au juste, de ce qui sera présenté aux juges ?"
 ---
 
-L’arrestation d’Ulfric ne clôt pas la controverse autour des profanations et du trafic de matériel magique. Les trois enquêteurs chargés du dossier par l’Académie contestent la présentation des faits soumise à leur signature : selon eux, la déposition faisait porter l’ensemble des responsabilités à l’arcaniste et omettait le rôle du Syndicat des Brumes.
+Il y aura donc un procès. Ulfric, arrêté dans l’affaire qui touche l’Académie, doit comparaître devant la justice de Valombre. Voilà pour la prochaine étape. Pour les explications, il faudra encore attendre.
 
-Ulfric est accusé de détournement de matériel magique, de manipulation d’étudiants, de corruption et de complicité de profanation. Ces accusations doivent être examinées par la justice de Valombre. Un procès a été annoncé pour la semaine suivant l’entretien des enquêteurs avec l’archimage Thade Coren.
+Car une arrestation donne un nom à une affaire. Elle ne donne pas toutes les réponses.
 
-## Le Syndicat absent du texte initial
+## Ce que les juges auront à établir
 
-Ilya, Gram et Thokk reconnaissent les manquements d’Ulfric. Ils contestent en revanche qu’ils suffisent à expliquer toute l’affaire. Gram a dénoncé un faux témoignage ; Ilya a demandé à modifier le document présenté par le greffier.
+Quelles charges seront effectivement retenues ? Sur quelles pièces reposeront-elles ? Que pourra répondre l’accusé ? Ce sont les premières questions. Elles méritent mieux que des suppositions répétées jusqu’à prendre l’apparence de certitudes.
 
-Après un premier refus, elle a obtenu que soient ajoutées la participation de la guilde des voleurs au trafic et une réserve sur la responsabilité totale d’Ulfric. Les trois enquêteurs ont accepté de témoigner au procès. Le désaccord est donc inscrit dans le dossier qui doit accompagner leur témoignage.
+Ulfric aura à répondre devant les juges. Son arrestation ne vaut pas condamnation. La précision devrait aller de soi. Dans une ville où une réputation voyage plus vite qu’un dossier, elle reste utile.
 
-L’enjeu dépasse la seule culpabilité de l’accusé : il s’agit aussi de reconstituer la circulation du matériel et d’identifier les bénéficiaires du trafic. Une condamnation individuelle laisserait ces questions ouvertes si les autres acteurs n’étaient pas examinés.
+## Et les contrôles ?
 
-## Des interrogatoires douloureux annoncés
+L’Académie forme des esprits, délivre des autorisations et veille sur ses propres activités. Si des fautes sont établies en son sein, il faudra donc comprendre comment elles ont été possibles. Quels contrôles existaient ? Ont-ils fonctionné ? Qui était chargé de les exercer ?
 
-Selon le récit des enquêteurs, Thade Coren a indiqué qu’Ulfric serait « passé à la question », au moyen d’objets ou de rituels douloureux s’il ne répondait pas comme attendu. Cette annonce soulève une autre question pour le procès : sur quels éléments reposeront les déclarations retenues contre l’accusé ?
+Poser ces questions ne revient pas à désigner d’autres coupables. Cela revient à examiner le fonctionnement d’une institution qui engage la confiance de la cité.
 
-L’archimage maintient par ailleurs qu’Edran Morn, dont le nom apparaît dans l’enquête, est mort de sa main trente ans auparavant. La portée de cette affirmation dans le dossier reste à éclaircir.
+Le procès permettra-t-il d’y voir plus clair ? Nous regarderons les faits exposés, les preuves produites et les réponses apportées. Le reste appartient, pour l’instant, aux conversations.
 
-Le mandat universitaire des trois enquêteurs est terminé. Leur témoignage, lui, reste attendu. La justice aura à départager une institution qui considère sa mission achevée et des enquêteurs qui jugent son récit incomplet.
+Valombre n’a pas seulement besoin de savoir qui sera condamné. Elle a besoin de comprendre ce qui s’est passé. Ce serait une bonne raison de tenir un procès.
